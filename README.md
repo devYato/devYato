@@ -2,7 +2,6 @@
 
 
 
-- 🔭 Atualmente trabalho na [DiamondBigger](https://www.diamondbigger.com/) na área de engenharia de dados porém participo de vários projetos back-end, front-end, IoT entre outros visando a área de otimização e logistica.
 - 🌱 Estou atualmente me aperfeiçoando em JS juntamente terminando estudos em typescript
 - 📫 Meu email para contato: devyatocontact@gmail.com
 - 😄 Pronomes: Ele/Dele
