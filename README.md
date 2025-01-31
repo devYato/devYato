@@ -2,9 +2,9 @@
 
 
 
-- 🌱 Estou atualmente me aperfeiçoando em JS juntamente terminando estudos em typescript
-- 📫 Meu email para contato: devyatocontact@gmail.com
-- 😄 Pronomes: Ele/Dele
+- 🧑‍💻 Working with Python | SEsuite | UIpath (focus on RPA and Web solutions)
+- ⚙️ Frameworks (streamlit(data) | Flask(Web solutions) | Django(Web solutions)
+- 📫 Meu email para contato: renannjuina1907@outlook.com
 
 <div>
 <a href="https://github.com/devYato">
@@ -13,11 +13,6 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Yato-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Yato-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Yato-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Yato-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Yato-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Yato-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Yato-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
   <img align="center" alt="Yato-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
