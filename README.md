@@ -2,7 +2,7 @@
 
 - 🧑‍💻 Expertise in Python, SEsuite, UIpath (specializing in RPA and Web solutions)
 - ⚙️ Frameworks: Streamlit (data-focused), Flask (web solutions), Django (web solutions)
-- 💡 Proficient in C programming with a strong understanding of Big-O notation and performance optimization
+- 💡 Proficient in C++ programming with a strong understanding of Big-O notation and performance optimization
 - 📫 Contact me via email: renannjuina1907@outlook.com
 
 <div>
