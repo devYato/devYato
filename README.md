@@ -4,7 +4,7 @@
 
 - 🧑‍💻 Working with Python | SEsuite | UIpath (focus on RPA and Web solutions)
 - ⚙️ Frameworks (streamlit(data) | Flask(Web solutions) | Django(Web solutions)
-- 📫 Meu email para contato: renannjuina1907@outlook.com
+- 📫 E-mail for contact: renannjuina1907@outlook.com
 
 <div>
 <a href="https://github.com/devYato">
