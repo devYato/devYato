@@ -9,6 +9,7 @@
 <a href="https://github.com/devYato">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devYato&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devYato&layout=compact&langs_count=10&theme=onedark"/>
+</a>
 </div>
 
 <div style="display: inline_block"><br>
@@ -17,7 +18,7 @@
     <img align="center" alt="Yato-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
     <img align="center" alt="Yato-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
     <img align="center" alt="Yato-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-    <img align="center" alt="Yato-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c++/c++-original.svg">
+    <img align="center" alt="Yato-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 </div>
 
 ##
