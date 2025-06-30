@@ -1,4 +1,4 @@
-## Hello, I am just another 0 or 1 among many others!
+## A dev that......
 
 - 🧑‍💻 Expertise in Python, SEsuite, UIpath (specializing in RPA and Web solutions)
 - ⚙️ Frameworks: Streamlit (data-focused), Flask (web solutions), Django (web solutions)
@@ -24,5 +24,5 @@
 ##
 
 <div> 
-    <a href="https://www.linkedin.com/in/renann-silva-b29260240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/renann-silva-b29260240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
